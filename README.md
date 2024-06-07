@@ -1,7 +1,7 @@
 
 <img alt="Hand Wave Emoji" src="https://i.ibb.co/XW2xZvG/Hand-Wave.gif" width='40' align="left"/><h2>Hey there! I'm Joana Coelho</h2>
 
-&nbsp; Passionate data analytics professional with expertise in business consulting, marketing, and data-driven decision-making. Skilled in strategy, digital technologies, data analysis, visualization, and reporting. Proven ability to conduct thorough analyses, automate workflows, and develop insightful reports.
+&nbsp;Passionate data analytics professional with expertise in business consulting, marketing, and data-driven decision-making. Skilled in strategy, digital technologies, data analysis, visualization, and reporting. Proven ability to conduct thorough analyses, automate workflows, and develop insightful reports.
 Currently enhancing Data Science & AI knowledge through a bootcamp and Online Master's program. Combining analytical abilities, attention to detail, and a passion for uncovering actionable insights to deliver impactful, data-driven solutions.
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -33,7 +33,7 @@ Currently enhancing Data Science & AI knowledge through a bootcamp and Online Ma
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanafpcoelho&show_icons=true&locale=en&layout=compact" alt="joanafpcoelho" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigopcoelho&show_icons=true&locale=en" alt="joanafpcoelho" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joanafpcoelho&show_icons=true&locale=en" alt="joanafpcoelho" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joanafpcoelho&" alt="joanafpcoelho" /></p>
 
